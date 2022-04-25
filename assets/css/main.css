@@ -2344,6 +2344,11 @@ input, select, textarea {
 			color: #eee;
 		}
 
+		.title2 {
+			background: #282b34 url("images/overlay.png");
+			color: #eee;
+		}
+
 		#footer header.style1 {
 			padding-bottom: 6em;
 			margin-bottom: 6em;
